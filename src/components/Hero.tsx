@@ -11,10 +11,6 @@ export default function Hero() {
         <p className="mt-2 font-mono text-[13px] tracking-wide text-accent sm:text-sm">
           Machine Learning · Embedded Systems · FPGA · Signal Processing
         </p>
-        <p className="mt-6 max-w-[520px] font-body text-[15px] leading-relaxed text-ink-muted">
-          Eight years of personal projects and two degrees, from a Java neural net in 2018 to FPGA/RTL
-          work today. The timeline below is the fastest way to see how that happened.
-        </p>
       </div>
     </section>
   );
